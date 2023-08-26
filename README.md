@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hraj24&label=Profile%20views&color=0e75b6&style=flat" alt="hraj24" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hraj24" alt="hraj24" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Java**
@@ -25,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hraj24&show_icons=true&locale=en" alt="hraj24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hraj24&" alt="hraj24" /></p>
+
