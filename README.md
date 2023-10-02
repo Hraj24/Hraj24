@@ -11,6 +11,7 @@
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **harahjha2002@gmail.com**
+- [![An image of @hraj24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hraj24)](https://holopin.io/@hraj24)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
