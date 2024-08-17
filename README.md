@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hraj24&label=Profile%20views&color=0e75b6&style=flat" alt="hraj24" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Spring/SpringBoot**
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **harahjha2002@gmail.com**
+- 📫 How to reach me **harshrah200324@gmail.com**
 - [![An image of @hraj24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hraj24)](https://holopin.io/@hraj24)
 
 <h3 align="left">Connect with me:</h3>
